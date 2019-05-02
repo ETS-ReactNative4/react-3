@@ -1,0 +1,21 @@
+.header{
+width:100%;
+background-color: rgb(7, 17, 17);
+height:50px;
+display:flex;
+}
+.header-text{
+color:rgb(189, 189, 207);
+padding-top: 20px;
+ margin-left: 15px;
+ font-size: 18px;
+}
+.header-logo{
+    font-size: 50px;
+    color: chartreuse;
+    font-family: unset;
+    margin-left: 5px;
+}
+.each-slide>div{
+    height: 200px;
+}
